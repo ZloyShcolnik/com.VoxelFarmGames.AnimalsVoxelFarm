@@ -11,7 +11,7 @@ env:
   
   AndroidKeystorePass: "qwerty"
   AndroidKeyaliasPass: "qwerty"
-  AndroidKeyaliasName: "qwerty"
+  AndroidKeyaliasName: "animals"
   
   ChatID_APK: "-1001952184057"
   ChatID_AAB: "-1001952184057"
