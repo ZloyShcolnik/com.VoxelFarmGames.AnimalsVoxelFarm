@@ -1,0 +1,11 @@
+Model Information:
+* title:	Minecraft Tiger
+* source:	https://sketchfab.com/3d-models/minecraft-tiger-fd0767e0e6bc48b8979afd0234fb53f4
+* author:	isaac0203 (https://sketchfab.com/isaac0203)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Minecraft Tiger" (https://sketchfab.com/3d-models/minecraft-tiger-fd0767e0e6bc48b8979afd0234fb53f4) by isaac0203 (https://sketchfab.com/isaac0203) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
